@@ -1,13 +1,6 @@
 # Text-summarizer
 AI-powered text summarization tool using Hugging Face API
 
-## Wokring Application
-#### Desktop Version
-<img alt="desktop" src="./public/images/output/desktop.png" >  
-
-#### Mobile Version
-<img alt="desktop" src="./public/images/output/mobile.png" >
-
 ## How to run locally?
 1. Clone the repo
 2. Open this folder in the code editor of your choice.
